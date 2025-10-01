@@ -1,5 +1,16 @@
-<h1>Hi, I'm Luis Fabian Galvez! <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
+<h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
 
+<br/>
+
+## $${\color{lightblue}Simple \space Graphic \space "How-To" \space Tutorials.}$$
+> Bridging the gap between end user and machine
+
+<br/>
+
+<h3 align="center"><summary><b>👯 Walkthrough Example:</b></summary></h3>
+<details align="center">
+<summary></summary>
+</details>
 
 <br/>
 <h2>👨‍💻 IT Support Projects & Simple Walkthroughs:</h2>
@@ -57,7 +68,3 @@ DiskPart through GUI and CLI<br/>
 <br/>
 
 
-
-
-
-<h2>👯 Simple Walkthrough Projects:</h2>
