@@ -6,8 +6,8 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-<b>📺 Virtualization</b>
-  - [Getting Started with Virtualization]()
+<b>📺 Virtualization </b>
+  - [Getting Started with Virtualization & Linux Distros](https://github.com/lufagee/Virtualization?tab=readme-ov-file#colorlightbluegetting-space-started-space-with-space-virtualization-space-and-space-linux-space-distributions)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
