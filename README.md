@@ -2,8 +2,10 @@
 
 <br/>
 
-## $${\color{lightblue}Simple \space Graphic \space "How-To" \space Tutorials.}$$
-> Bridging the gap between end user and machine
+Bridging the gap between end user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
+
+
+
 
 <br/>
 
