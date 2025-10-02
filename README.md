@@ -46,7 +46,7 @@ Clonezilla Aquisition and Installation<br/>
   - Clone/Image a hard drive<br/>
   
 > <br/>  
-> **Documentation nearing completion, Media comple, Release date: 10/3/2025)**
+> **Documentation nearing completion, Media complete, Release date: 10/3/2025)**
 <br/>
 
 
