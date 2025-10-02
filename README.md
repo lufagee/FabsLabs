@@ -3,16 +3,17 @@
 
 Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
 
-
-
-
 <br/>
-
 <h3><summary><b>👯 Walkthrough Example:</b></summary></h3>
 <details>
 <summary>Tutorials are showcased through gifs made and edited with <a href="https://github.com/NickeManarin/ScreenToGif">Screen To Gif</a></summary>
-<ul>Screen To Gif is a free, open source, and very user friendly application that allows you to turn screen recordings into gifs, and much more!</ul>
+<ol>Screen To Gif is a free, open source, and very user friendly application that allows you to turn screen recordings into gifs, and more.</b><br/>
+</ol>
 </details>
+
+[Example of Walkthrough Format](https://github.com/lufagee/Hide-the-Recycle-Bin/tree/main#colorgreenhide-space-the-space-recycle-space-bin)
+<br/>
+
 
 <br/>
 <h2>👨‍💻 IT Support Projects & Simple Walkthroughs:</h2>
