@@ -32,15 +32,16 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 <h3>System Administration</h3>
 
 Getting Started with Windows Server & Active Directory<br/>
-- Windows Server 2025 Evaluation Aquisition & Installation<br/>
-- Active Directory Install<br/>
-- User, Group, Object Management<br/>
+  - Windows Server 2025 Evaluation Aquisition & Installation<br/>
+  - Active Directory Install<br/>
+  - User, Group, Object Management<br/>
 
 > <br/>
 > **Documentation complete, Media nearing completion, Release date: 10/3/2025)**
 <br/>
 
 <h3>Imaging & Cloning</h3>
+
 Rufus Aquisition & Installation<br/>
   - Create a bootable USB Flash Drive<br/>
 Clonezilla Aquisition and Installation<br/>
@@ -52,6 +53,7 @@ Clonezilla Aquisition and Installation<br/>
 
 
 <h3>CertUtil & SHA</h3><br/>
+
 CertUtil through Command Line Interface<br/>
   - Confirm the integrity of a downloaded file.<br/>
 
@@ -64,7 +66,7 @@ CertUtil through Command Line Interface<br/>
 Jwipe with PowerShell<br/> 
   - ("zeroing" out a storage drive)<br/>
 DiskPart through GUI and CLI<br/>
-    - Format storage drive<br/>
+  - Format storage drive<br/>
 
 > <br/>  
 > **Documentation nearing completion, Media nearing completion, Release date: 10/10/2025)**
