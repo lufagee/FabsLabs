@@ -11,7 +11,7 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 </ol>
 </details>
 
-[Example of Walkthrough Format](https://github.com/lufagee/Hide-the-Recycle-Bin/tree/main#colorgreenhide-space-the-space-recycle-space-bin)
+[Example Showcasing Tutorial Format](https://github.com/lufagee/Hide-the-Recycle-Bin/tree/main#colorgreenhide-space-the-space-recycle-space-bin)
 <br/>
 
 
