@@ -1,5 +1,6 @@
 <h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
-
+<!-- Back to top link -->
+<a id="readme-top"></a>
 <br/>
 
 Bridging the gap between end user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
@@ -29,11 +30,11 @@ Bridging the gap between end user and machine with simple, graphic $${\color{gre
 <br/>
 
 <h3>System Administration</h3>
-<br/>
+
 Getting Started with Windows Server & Active Directory<br/>
-  -Windows Server 2025 Evaluation Aquisition & Installation<br/>
-  -Active Directory Install<br/>
-  -User, Group, Object Management<br/>
+- Windows Server 2025 Evaluation Aquisition & Installation<br/>
+- Active Directory Install<br/>
+- User, Group, Object Management<br/>
 
 > <br/>
 > **Documentation complete, Media nearing completion, Release date: 10/3/2025)**
@@ -70,3 +71,4 @@ DiskPart through GUI and CLI<br/>
 <br/>
 
 
+<p align="right">(<a href="#readme-top"><strong>back to top »</strong></a>)</p>
