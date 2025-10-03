@@ -19,7 +19,7 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 <h2>👨‍💻 IT Support Projects & Simple Walkthroughs:</h2>
 <br/>
 
-<a href="https://github.com/lufagee/Virtualization"><h3>Virtualization</h3></a>
+<h3><a href="https://github.com/lufagee/Virtualization">Virtualization</a></h3>
 
 [Getting Started with Virtualization & Linux Distros](https://github.com/lufagee/Virtualization?tab=readme-ov-file#colorlightbluegetting-space-started-space-with-space-virtualization-space-and-space-linux-space-distributions)
   - [Oracle VirtualBox VM Aquisition & Installation](https://github.com/lufagee/Virtualization?tab=readme-ov-file#oracle-virtualbox-vm-aquisition--installation) 
