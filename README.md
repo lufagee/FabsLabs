@@ -29,15 +29,16 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 <br/>
 <br/>
 
-<h3>System Administration</h3>
+<h3><a href="https://github.com/lufagee/System-Administration">System Administration</a></h3>
 
-Getting Started with Windows Server & Active Directory<br/>
-  - Windows Server 2025 Evaluation Aquisition & Installation<br/>
-  - Active Directory Install<br/>
-  - User, Group, Object Management<br/>
+[Getting Started with Windows Server & Active Directory](https://github.com/lufagee/System-Administration?tab=readme-ov-file#colorhotpinkgetting-space-started-space-with-space-windows-space-server-space-and-space-active-space-directory)
+  - [Windows 11 ISO Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#window-windows-11-iso-aquisition--installation)
+  - [Windows Server 2025 Evaluation Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#file_cabinet-windows-server-2025-iso-aquisition--installation)
+  - [Active Directory Install](https://github.com/lufagee/System-Administration?tab=readme-ov-file#card_file_box-active-directory)
+  - [User, Group, and Object Management]
 
 > <br/>
-> **Documentation complete, Media nearing completion, Release date: 10/3/2025)**
+> **User, Group, and Object Management nearing completion; Release date: 10/8/2025)**
 <br/>
 
 <h3>Imaging & Cloning</h3>
@@ -48,7 +49,7 @@ Clonezilla Aquisition and Installation<br/>
   - Clone/Image a hard drive<br/>
   
 > <br/>  
-> **Documentation nearing completion, Media complete, Release date: 10/3/2025)**
+> **Documentation nearing completion, Media complete, Release date: 10/8/2025)**
 <br/>
 
 
@@ -58,7 +59,7 @@ CertUtil through Command Line Interface<br/>
   - Confirm the integrity of a downloaded file.<br/>
 
 > <br/>  
-> **Documentation nearing completion, Media complete, Release date: 10/3/2025)**
+> **Documentation nearing completion, Media complete, Release date: 10/8/2025)**
 <br/>
 
 
