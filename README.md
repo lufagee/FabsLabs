@@ -6,8 +6,8 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 <br/>
 <h3><summary><b>👯 Walkthrough Example:</b></summary></h3>
 <details>
-<summary>Tutorials are showcased through gifs made and edited with <a href="https://github.com/NickeManarin/ScreenToGif">Screen To Gif</a></summary>
-<ol>Screen To Gif is a free, open source, and very user friendly application that allows you to turn screen recordings into gifs, and more.</b><br/>
+<summary>Tutorials are showcased through gifs made and edited with <a href="https://github.com/NickeManarin/ScreenToGif">ScreenToGif</a></summary>
+<ol>ScreenToGif is a free, open source, and very user friendly application that allows you to turn screen recordings into gifs, and more.</b><br/>
 </ol>
 </details>
 
