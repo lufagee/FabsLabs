@@ -1,10 +1,10 @@
 <!-- Back to top link -->
 <a id="readme-top"></a><h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
 
-## Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
+### Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
 
 <br/>
-<h3><summary><b>👯 Walkthrough Example:</b></summary></h3>
+<h2><summary><b>👯 Walkthrough Example:</b></summary></h2>
 <details>
 <summary>Tutorials are showcased through gifs made and edited with <a href="https://github.com/NickeManarin/ScreenToGif">ScreenToGif</a></summary>
 <ol>ScreenToGif is a free, open source, and very user friendly application that allows you to turn screen recordings into gifs, and more.</b><br/>
