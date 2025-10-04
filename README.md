@@ -1,7 +1,7 @@
 <!-- Back to top link -->
 <a id="readme-top"></a><h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
 
-Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
+## Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.</h4>
 
 <br/>
 <h3><summary><b>👯 Walkthrough Example:</b></summary></h3>
