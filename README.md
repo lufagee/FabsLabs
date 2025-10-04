@@ -41,6 +41,22 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 > **User, Group, and Object Management nearing completion; Release date: 10/8/2025)**
 <br/>
 
+
+[SHA256 Checksum Verification Guide](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#-sha256-checksum-verification-guide)
+  - [Windows PowerShell Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#windows-powershell-method)
+  - [Windows CLI Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#windows-command-prompt-method)
+  - [Linux Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#linuxmacos-cli-method)
+  - [macOS Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#linuxmacos-cli-method)
+  - [Verification Steps](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#-verification-steps-)
+  - [Security Best Practices](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#%EF%B8%8F-security-best-practices)
+
+
+
+
+
+
+
+
 <h3>Imaging & Cloning</h3>
 
 Rufus Aquisition & Installation<br/>
