@@ -54,7 +54,7 @@ Bridging the gap between end-user and machine with simple, graphic $${\color{gre
 
 
 
-
+<br/>
 
 
 
@@ -70,14 +70,6 @@ Clonezilla Aquisition and Installation<br/>
 <br/>
 
 
-<h3>CertUtil & SHA</h3><br/>
-
-CertUtil through Command Line Interface<br/>
-  - Confirm the integrity of a downloaded file.<br/>
-
-> <br/>  
-> **Documentation nearing completion, Media complete, Release date: 10/8/2025)**
-<br/>
 
 
 <h3>Disk Sanitization & Formatting</h3><br/>
