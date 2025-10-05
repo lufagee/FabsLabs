@@ -1,15 +1,16 @@
 <!-- Back to top link -->
-<a id="readme-top"></a><h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
-
-#### Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.  <br/>
-
+<a id="readme-top"></a>
 <!-- PROJECT LOGO -->
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/luisfabian-g/">
     <img src="images/LinkedIn (Custom).png" alt="LinkedIn" width="100" height="100">
   </a>
 </div>
+<h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
+
+#### Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.  <br/>
+
+
 
 <h2><b>👯 Walkthrough Example:</b></h2>
 <details>
