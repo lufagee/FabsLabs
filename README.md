@@ -42,7 +42,7 @@
   - [Gnome Desktop Environment](https://github.com/lufagee/Virtualization/edit/main/README.md#gnome-desktop-environment)
   - Kali-Linux (**Documentation complete, Media in progress, Release date: 10/10/2025)
 <br/>
-<br/>
+
 
 <h3><a href="https://github.com/lufagee/System-Administration">System Administration</a></h3>
 
@@ -50,10 +50,9 @@
   - [Windows 11 ISO Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#window-windows-11-iso-aquisition--installation)
   - [Windows Server 2025 Evaluation Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#file_cabinet-windows-server-2025-iso-aquisition--installation)
   - [Active Directory Install](https://github.com/lufagee/System-Administration?tab=readme-ov-file#card_file_box-active-directory)
-  - [User, Group, and Object Management]
+  - [User, Group, and Object Management](https://github.com/lufagee/System-Administration#user-group-and-object-management)
 
-> <br/>
-> **User, Group, and Object Management nearing completion; Release date: 10/8/2025)**
+
 <br/>
 
 
