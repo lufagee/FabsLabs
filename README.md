@@ -39,7 +39,7 @@
 
 <h3><a href="https://github.com/lufagee/System-Administration">System Administration</a></h3>
 
-[Getting Started with Windows Server & Active Directory](https://github.com/lufagee/System-Administration?tab=readme-ov-file#colorhotpinkgetting-space-started-space-with-space-windows-space-server-space-and-space-active-space-directory)
+[Getting Started with Windows Server & Active Directory](https://github.com/lufagee/System-Administration/blob/main/README.md#colorhotpinkgetting-space-started-space-with-space-windows-space-server)
   - [Windows 11 ISO Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#window-windows-11-iso-aquisition--installation)
   - [Windows Server 2025 Evaluation Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#file_cabinet-windows-server-2025-iso-aquisition--installation)
   - [Active Directory Install](https://github.com/lufagee/System-Administration?tab=readme-ov-file#card_file_box-active-directory)
