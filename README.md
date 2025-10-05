@@ -12,7 +12,7 @@
 </ol>
 </details>
 
-[Example Showcasing Tutorial Format](https://github.com/lufagee/Hide-the-Recycle-Bin/tree/main#colorgreenhide-space-the-space-recycle-space-bin)
+[Example](https://github.com/lufagee/Hide-the-Recycle-Bin/tree/main#colorgreenhide-space-the-space-recycle-space-bin)
 <br/>
 <br/>
 
