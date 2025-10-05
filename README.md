@@ -18,7 +18,14 @@
 </ol>
 </details>
 
-[Example](https://github.com/lufagee/Hide-the-Recycle-Bin/tree/main#colorgreenhide-space-the-space-recycle-space-bin)
+<details>
+<summary>Gif Example</summary>
+<ol>
+<img src="gifs/ExampleGif.gif" height="60%" width="60%" alt="Example gif"/>
+</ol>
+<a href="https://github.com/lufagee/Hide-the-Recycle-Bin/blob/main/README.md#colorgreenhide-space-the-space-recycle-space-bin">Hide the Recycle Bin with <b>gpedit.msc</b></a>
+</details>
+
 <br/>
 <br/>
 
