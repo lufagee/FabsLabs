@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="left">
   <a href="https://www.linkedin.com/in/luisfabian-g/">
-    <img src="images/LinkedIn (Custom).png" alt="LinkedIn" width="160" height="160">
+    <img src="images/LinkedIn (Custom).png" alt="LinkedIn" width="80" height="80">
   </a>
 </div>
 <h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
