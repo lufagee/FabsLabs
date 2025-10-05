@@ -29,7 +29,7 @@
 
 <h3><a href="https://github.com/lufagee/Virtualization">Virtualization</a></h3>
 
-[Getting Started with Virtualization & Linux Distros](https://github.com/lufagee/Virtualization?tab=readme-ov-file#colorlightbluegetting-space-started-space-with-space-virtualization-space-and-space-linux-space-distributions)
+[Getting Started with Virtualization & Linux Distros](https://github.com/lufagee/Virtualization/blob/main/README.md#colorhotpinkgetting-space-started-space-with-space-virtualization)
   - [Oracle VirtualBox VM Aquisition & Installation](https://github.com/lufagee/Virtualization?tab=readme-ov-file#oracle-virtualbox-vm-aquisition--installation) 
   - [Debian GNU/Linux ISO Aquisition & Installation](https://github.com/lufagee/Virtualization?tab=readme-ov-file#debian-gnulinux-iso-aquisition--installation)
   - [Gnome Desktop Environment](https://github.com/lufagee/Virtualization/edit/main/README.md#gnome-desktop-environment)
