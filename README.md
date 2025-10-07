@@ -68,7 +68,7 @@
 
 <details>
 <summary><a href="https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#-quick-reference-table">Quick Reference Table</a></summary>
-<ol>
+<ol><br/>
 
 | Platform               | Command                                           |
 | ---------------------- | ------------------------------------------------- |
