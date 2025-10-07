@@ -61,12 +61,13 @@ https://github.com/lufagee/System-Administration?tab=readme-ov-file#window-windo
 
 <h3><a href="https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#-sha256-checksum-verification-guide">🔒 SHA256-Checksum-Verification-Guide</a></h3>
 
+  - [Quick Reference Table](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#-quick-reference-table)
   - [Windows PowerShell Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#windows-powershell-method)
-    - [Windows CLI Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#windows-command-prompt-method)
-  - [Linux Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#linuxmacos-cli-method)
-  - [macOS Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#linuxmacos-cli-method)
-    - [Verification Steps](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#-verification-steps-)
-    - [Security Best Practices](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#%EF%B8%8F-security-best-practices)
+    - [Windows CLI Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#windows-command-prompt-method)
+  - [Linux Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#linuxmacos-cli-method)
+  - [macOS Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#linuxmacos-cli-method)
+    - [Verification Steps](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#-verification-steps-)
+    - [Security Best Practices](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#%EF%B8%8F-security-best-practices)
 
 
 
