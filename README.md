@@ -51,7 +51,7 @@
   - [Windows 11 ISO Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#window-windows-11-iso-aquisition--installation)
   - [Windows Server 2025 Evaluation Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#file_cabinet-windows-server-2025-iso-aquisition--installation)
   - [Active Directory Install](https://github.com/lufagee/System-Administration?tab=readme-ov-file#card_file_box-active-directory)
-    - [User, Group, and Object Management](https://github.com/lufagee/System-Administration#user-group-and-object-management)
+    - [User, Group, and Object Management](https://github.com/lufagee/System-Administration?tab=readme-ov-file#user-group-and-object-management)
     - [Create New OU with PowerShell ISE Script](https://github.com/lufagee/System-Administration?tab=readme-ov-file#create-new-ou-with-powershell-ise)
     - [Create 10 New Users with PowerShell ISE Script](https://github.com/lufagee/System-Administration?tab=readme-ov-file#create-10-new-users-with-powershell-ise)
 
@@ -61,7 +61,7 @@ https://github.com/lufagee/System-Administration?tab=readme-ov-file#window-windo
 
 <h3><a href="https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#-sha256-checksum-verification-guide">🔒 SHA256-Checksum-Verification-Guide</a></h3>
 
-  - [Windows PowerShell Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#windows-powershell-method)
+  - [Windows PowerShell Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide?tab=readme-ov-file#windows-powershell-method)
     - [Windows CLI Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#windows-command-prompt-method)
   - [Linux Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#linuxmacos-cli-method)
   - [macOS Method](https://github.com/lufagee/SHA256-Checksum-Verification-Guide/blob/main/README.md#linuxmacos-cli-method)
