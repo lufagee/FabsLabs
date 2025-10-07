@@ -52,7 +52,8 @@
   - [Windows Server 2025 Evaluation Aquisition & Installation](https://github.com/lufagee/System-Administration?tab=readme-ov-file#file_cabinet-windows-server-2025-iso-aquisition--installation)
   - [Active Directory Install](https://github.com/lufagee/System-Administration?tab=readme-ov-file#card_file_box-active-directory)
     - [User, Group, and Object Management](https://github.com/lufagee/System-Administration#user-group-and-object-management)
-    - [PowerShell ISE Script to Create New OU and 10 New Users](https://github.com/lufagee/System-Administration/blob/main/README.md#gif9)
+    - [Create New OU with PowerShell ISE Script](https://github.com/lufagee/System-Administration/blob/main/README.md#gif9)
+    - [Create 10 New Users with PowerShell ISE Script](https://github.com/lufagee/System-Administration/blob/main/README.md#gif10)
 
 
 <br/>
