@@ -15,7 +15,7 @@
 <h2><b>👯 Walkthrough Example:</b></h2>
 <details>
 <summary>Tutorials are showcased through gifs made and edited with <a href="https://github.com/NickeManarin/ScreenToGif">ScreenToGif</a></summary>
-<ol>ScreenToGif is a free, open source, and very user friendly application that allows you to turn screen recordings into gifs, and more.</b>
+<ol>ScreenToGif is a free, open source, and user friendly application that allows you to turn screen recordings into gifs.</b>
 </ol>
 </details>
 
