@@ -107,7 +107,7 @@ Clonezilla Aquisition and Installation<br/>
   - Clone/Image a hard drive<br/>
   
 > <br/>  
-> **Documentation nearing completion, Media complete, Release date: 10/8/2025)**
+> **Documentation nearing completion, Media complete, Release date: 10/18/2025)**
 <br/>
 
 
@@ -120,7 +120,7 @@ DiskPart through GUI and CLI<br/>
   - Format storage drive<br/>
 
 > <br/>  
-> **Documentation nearing completion, Media nearing completion, Release date: 10/10/2025)**
+> **Documentation nearing completion, Media nearing completion, Release date: 10/20/2025)**
 <br/>
 
 
