@@ -114,7 +114,7 @@ Clonezilla Aquisition and Installation<br/>
 
 
 <h3>Disk Sanitization & Formatting</h3><br/>
-Jwipe with PowerShell<br/> 
+<!--Jwipe with PowerShell<br/> ###Decided to write my own program--> 
   - ("zeroing" out a storage drive)<br/>
 DiskPart through GUI and CLI<br/>
   - Format storage drive<br/>
