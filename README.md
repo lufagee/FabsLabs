@@ -13,7 +13,7 @@
 <br/>
 
 
-_NOTE:Revamping Media and Walkthrough Structure for Improved Accessibility_
+_NOTE:Currently revamping media and walkthrough structure for improved accessibility._
 <br/>
 
 <h2><b>👯 Walkthrough Example:</b></h2>
@@ -101,7 +101,7 @@ _NOTE:Revamping Media and Walkthrough Structure for Improved Accessibility_
 <br/>
 
 ## Coming Soon!
-_NOTE:Revamping Media and Walkthrough Structure for Improved Accessibility_
+_NOTE:Currently revamping media and walkthrough structure for improved accessibility._
 
 <br/>
 <h3>Patch Management</h3>
