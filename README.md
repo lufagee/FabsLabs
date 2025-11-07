@@ -94,31 +94,31 @@
 
 
 
+<br/>
+
 <h3>Patch Management</h3>
 
 Create Change Management Plan<br/>
-  - Determine Scope, Risk, Timeline, and Constraints
-  - Create Backout / Rollback Plan
-Software and Device Patch Management<br/>
-  - Discovery and Inventory
-  - Backup, Risk Assessment and Testing
-  - Updates, Upgrades and Documentation
-Hardware Installation and Management<br/>
-  - RAM Configuration<br/>
-  - HDD to SSD with Rufus/Clonezilla 
+  - Determine Scope, Risk, Timeline, and Constraints<br/>
+  - Create Backout / Rollback Plan<br/>
+  - Software and Device Patch Management<br/>
+    - Discovery and Inventory<br/>
+    - Backup, Risk Assessment and Testing<br/>
+    - Updates, Upgrades and Documentation<br/>
+  - Hardware Installation and Management<br/>
+    - RAM Configuration<br/>
+    - HDD to SSD with Rufus/Clonezilla <br/>
+
 <br/>
-
-
-
 
 
 
 <h3>Say Goodbye to Windows 10</h3>
 
 Linux Mint Cinnamon on Windows 10 Device<br/>
-  - Optional: Wipe/Archive Windows 10 Drive
+  - Optional: Wipe/Archive Windows 10 Drive<br/>
   - Create Bootable Linux Mint Cinnamon USB Thumbdrive<br/>
-  - Install and Update Linux<br/>
+  - Install and Harden Linux<br/>
 
 <br/>
 
@@ -126,33 +126,31 @@ Linux Mint Cinnamon on Windows 10 Device<br/>
 
 Modem and Router Hardening<br/>
   - Update Login Credentials, Upgrade Firmware, and Disable WPS<br/>
-  - Set Up Secure Wi-Fi:Authentication Method and Encryption Type
-  - Select Trusted DNS Server(Quad9)
-  - Bridge Mode and Network Segmentation<br/>
+  - Setup Secure Wi-Fi<br/>
+    - Firewall, Authentication Method and Encryption Type<br/>
+    - Select Trusted DNS Server(Quad9)<br/>
+    - Bridge Mode and Network Segmentation<br/>
 Network Mapping<br/>
-  - Find Devices on Network with CLI and Router Interface
-  - Enable Manual IP Assignment for Media Server(Plex)<br/>
-  - Create a Logical Network Diagram
-
+  - Find Devices on Network with CLI and Router Interface<br/>
+  - Optional: Enable Manual IP Assignment for Media Server(Plex)<br/>
+  - Create a Logical Network Diagram<br/>
 
 <br/>
 
 
 
-
-
-
-
-
-
-<h3>SSH</h3>
+<h3>SSH Remote Management</h3>
 
 Windows 11 to Linux Mint with OpenSSH<br/>
   - Install, Enable, and Harden openssh-server with CLI<br/>
-Manage SSH Keys with KeePassXC<br/>
-  - Download KeePassXC and Enable SSH Agent<br/>
-  - Create SSH Directory, Authorized Keys File and Set Secure Permissions<br/>
-  - Generate SSH Key Pair with Strong Passphrase<br/>
+  - Ensure Client to Server Session
+
+Generate and Manage Key Pair<br/>
+  - Create SSH Directory, Authorized Keys File and Set Secure Permissions via SSH<br/>
+  - Setup KeePassXC and Enable SSH Agent<br/>
+  - Generate SSH Key Pair and Manage Passphrase on KeePassXC<br/>
+  - Save Public Key on Server via SSH
+  - Enable PubKey Login, Disable Password Login
 
 
 <br/>
