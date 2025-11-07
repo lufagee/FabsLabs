@@ -94,6 +94,66 @@
 
 
 
+<h3>Patch Management</h3>
+
+Create Change Management Plan<br/>
+  - Determine Scope, Risk, Timeline, and Constraints
+  - Create Backout / Rollback Plan
+Software and Device Patch Management<br/>
+  - Discovery and Inventory
+  - Backup, Risk Assessment and Testing
+  - Updates, Upgrades and Documentation
+Hardware Installation and Management<br/>
+  - RAM Configuration<br/>
+  - HDD to SSD with Rufus/Clonezilla 
+<br/>
+
+
+
+
+
+
+<h3>Say Goodbye to Windows 10</h3>
+
+Linux Mint Cinnamon on Windows 10 Device<br/>
+  - Optional: Wipe/Archive Windows 10 Drive
+  - Create Bootable Linux Mint Cinnamon USB Thumbdrive<br/>
+  - Install and Update Linux<br/>
+
+<br/>
+
+<h3>Home Network Hardening</h3>
+
+Modem and Router Hardening<br/>
+  - Update Login Credentials, Upgrade Firmware, and Disable WPS<br/>
+  - Set Up Secure Wi-Fi:Authentication Method and Encryption Type
+  - Select Trusted DNS Server(Quad9)
+  - Bridge Mode and Network Segmentation<br/>
+Network Mapping<br/>
+  - Find Devices on Network with CLI and Router Interface
+  - Enable Manual IP Assignment for Media Server(Plex)<br/>
+  - Create a Logical Network Diagram
+
+
+<br/>
+
+
+
+
+
+
+
+
+
+<h3>SSH</h3>
+
+Windows 11 to Linux Mint with OpenSSH<br/>
+  - Install, Enable, and Harden openssh-server with CLI<br/>
+Manage SSH Keys with KeePassXC<br/>
+  - Download KeePassXC and Enable SSH Agent<br/>
+  - Create SSH Directory, Authorized Keys File and Set Secure Permissions<br/>
+  - Generate SSH Key Pair with Strong Passphrase<br/>
+
 
 <br/>
 
