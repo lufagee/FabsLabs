@@ -130,6 +130,7 @@ Modem and Router Hardening<br/>
     - Firewall, Authentication Method and Encryption Type<br/>
     - Select Trusted DNS Server(Quad9)<br/>
     - Bridge Mode and Network Segmentation<br/>
+
 Network Mapping<br/>
   - Find Devices on Network with CLI and Router Interface<br/>
   - Optional: Enable Manual IP Assignment for Media Server(Plex)<br/>
@@ -143,7 +144,7 @@ Network Mapping<br/>
 
 Windows 11 to Linux Mint with OpenSSH<br/>
   - Install, Enable, and Harden openssh-server with CLI<br/>
-  - Ensure Client to Server Session
+  - Ensure Client to Server Session<br/>
 
 Generate and Manage Key Pair<br/>
   - Create SSH Directory, Authorized Keys File and Set Secure Permissions via SSH<br/>
