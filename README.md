@@ -2,7 +2,7 @@
 <a id="readme-top"></a>
 <h1>Hi, I'm <b>Luis Fabian Galvez</b>, <br/><a href="https://linkedin.com/in//luisfabian-g/">IT Support Specialist</a> <a href="https://www.github.com/lufagee/">and DIY Tech Enthusiast</h1>
 
-#### Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials.  <br/>
+#### Bridging the gap between end-user and machine with simple, graphic $${\color{green}"how-to"}$$ tutorials. <br/>
 <!-- PROJECT LOGO -->
 <div align="left">
   <a href="https://www.linkedin.com/in/luisfabian-g/">
@@ -10,6 +10,10 @@
   </a>
 </div>
 
+<br/>
+
+
+_NOTE:Revamping Media and Walkthrough Structure for Improved Accessibility_
 <br/>
 
 <h2><b>👯 Walkthrough Example:</b></h2>
@@ -96,6 +100,10 @@
 
 <br/>
 
+## Coming Soon!
+_NOTE:Revamping Media and Walkthrough Structure for Improved Accessibility_
+
+<br/>
 <h3>Patch Management</h3>
 
 Create Change Management Plan<br/>
